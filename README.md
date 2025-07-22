@@ -1,6 +1,6 @@
-# 🏥 Prescripto Backend – Powering Healthcare Appointments & Prescriptions 🚀
+# 🏥 Prescripx Backend – Powering Healthcare Appointments & Prescriptions 🚀
 
-Prescripto Backend is the **secure and scalable** API powering **Prescripto**, a modern healthcare appointment and prescription management system.  
+Prescripx Backend is the **secure and scalable** API powering **Prescripx**, a modern healthcare appointment and prescription management system.  
 It handles **user authentication, doctor profiles, appointment bookings, prescriptions, and payments**, ensuring a seamless healthcare experience.  
 
 🔹 **Built with Node.js, Express, and MongoDB**  
@@ -14,7 +14,7 @@ It handles **user authentication, doctor profiles, appointment bookings, prescri
 🔗 **[https://your-backend-api.com](https://your-backend-api.com)**  
 
 📢 **Note:** This repository contains only the **backend** code.  
-For the frontend, visit: **[Prescripto Frontend](https://github.com/itxnargis/prescripto)**.  
+For the frontend, visit: **[Prescripx Frontend](https://github.com/itxnargis/Prescripx)**.  
 
 ---
 
@@ -86,8 +86,8 @@ For the frontend, visit: **[Prescripto Frontend](https://github.com/itxnargis/pr
 ## 🚀 Installation  
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/prescripto-backend.git
-   cd prescripto-backend
+   git clone https://github.com/yourusername/Prescripx-backend.git
+   cd Prescripx-backend
    
 2. **Install Dependencies**
     ```bash
